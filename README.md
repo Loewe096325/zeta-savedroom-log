@@ -35,7 +35,7 @@ Zeta側のHTML / DOM構造を利用しているため、サイト側のアップ
 
 ### 1. Bookmarkletを登録する
 
-`zeta-log-v3_4-bookmarklet.txt` を開き、中にある
+`bookmarklet.min.js` を開き、中にある
 
 `javascript:`
 
